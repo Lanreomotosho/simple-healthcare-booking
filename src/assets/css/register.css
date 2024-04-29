@@ -1,0 +1,27 @@
+.question {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin: 0 10px;
+  }
+  
+  .yes-btn {
+    background-color: green;
+    color: white;
+    border: none;
+  }
+  
+  .no-btn {
+    background-color: red;
+    color: white;
+    border: none;
+  }
+  
